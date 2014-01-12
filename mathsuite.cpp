@@ -47,10 +47,9 @@
 ******************************************************************************/
 
 #include <QtGui>
+#include <mathtest.h>
+#include <fractest.h>
 #include "mathsuite.h"
-#include "../mathtest/mathtest.h"
-#include "../fractest/fractest.h"
-
 
 enum {ms_math, ms_frac, ms_perc, ms_boundary };
 
